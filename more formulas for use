@@ -1,0 +1,6 @@
+---area of the rectangle--
+s = a * b
+---perimetr of the triangle---
+per = a + b + c
+---area of the triangle---
+s = (1/2) * a * h
